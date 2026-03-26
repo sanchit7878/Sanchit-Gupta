@@ -60,7 +60,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Electrical Engineer",
     icon: web,
   },
   {
@@ -134,21 +134,21 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Information Technology Intern",
+    title: "Electrical Engineering Student",
     company_name: "SATI , Vidisha",
     
     icon: img5,
     iconBg: "#383E56",
     
-    date: "june 2023 - july 2023",
+    date: "june 2019 - july 2023",
     points: [
-      "Gained hands-on experience in various IT domains, including software development, network administration, and database management.",
-      "Worked on collaborative projects under mentorship, enhancing problem-solving skills and adaptability in a professional environment.",
+      "Developing closed-loop control systems by integrating high-performance embedded hardware with real-time software architectures.",
+      "Bridging the gap between power electronics and digital control to create responsive, hardware-aware automation systems.",
     ],
   },
   {
-    title: "AI-ML Intern",
-    company_name: "YBI Foundation",
+    title: "Volvo - Functional Trainee Engineer",
+    company_name: "Volvo",
      
     
     icon: img6,
@@ -157,8 +157,8 @@ const experiences = [
 
     date: "July 2023 - Aug 2023",
     points: [
-      "Collaborated on real-world artificial intelligence and machine learning projects, applying theoretical knowledge to develop data-driven solutions.",
-      "Developed and optimized algorithms using Python, TensorFlow, and scikit-learn to solve complex problems.",
+      "Developing and refining integrated HMI design systems to provide critical real-time vehicle data, directly enhancing driver situational awareness and operational safety in commercial trucks and passenger vehicles.",
+      "Collaborating on the development of advanced safety-critical software architectures, focusing on robust design systems that monitor vehicle health and mitigate risks in automotive electronic control units.",
     ],
   },
  
@@ -166,7 +166,7 @@ const experiences = [
 
 export const hackathons = [
   {
-    name: "Code Conquest 2024",
+    name: "Cummins Scholarship 2022",
     description:
       "Vidisha",
    
@@ -174,17 +174,17 @@ export const hackathons = [
    
   },
   {
-    name: "Hackover Flow 2.0 ",
+    name: "Student Of The Year 2024",
     description:
-      "Mumbai",
+      "Vidisha",
    
     image: hack2,
    
   },
   {
-    name: " Version beta 7.0 ",
+    name: " Proxcellence Academy Internship",
     description:
-      "Manit Bhopal",
+      "Bhopal",
    
     image: hack1,
    
@@ -198,7 +198,7 @@ export const hackathons = [
    
   },
   {
-    name: " Smart India Hackathon 2024",
+    name: "Social Achievements",
     description:
       "On-Campus",
    
@@ -224,9 +224,9 @@ export const hackathons = [
 const projects = [
 
   {
-    name: "Mind'sCool",
+    name: "Automatic Parking Brake",
     description:
-      "Gamified mental wellness platform designed to support users in managing mental health through engaging activities and rewards. Features include a unique relationship tree that grows with task completion, fostering motivation and personal growth.",
+      "Engineered an automated safety system utilizing seat-integrated pressure sensors to prevent accidental vehicle movement. Developed control logic for a VECU to process real-time telemetry and command motor actuators for autonomous braking",
     tags: [
       {
         name: "react",
@@ -247,9 +247,9 @@ const projects = [
   },
 
   {
-    name: "Bail Recknor",
+    name: "Ultrasonic Based Fuel Monitoring System",
     description:
-      "Digital solution aimed at streamlining the bail process for undertrial prisoners, legal aid providers, and judicial authorities. Integrates parameters like offense nature, to enhance efficiency and transparency in bail applications.",
+      "Engineered a non-invasive measurement solution using ultrasonic waves to eliminate the mechanical wear associated with traditional float sensors. Programmed complex geometric and time-of-flight algorithms to provide real-time liquid volume and percentage calculations.",
     tags: [
       {
         name: "react",

@@ -47,9 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hello! I'm Kunwar Awadhiya, a passionate and innovative developer with a love for crafting creative solutions to real-world problems. As a Computer Science Engineering student specializing in Information Technology at SATI, Vidisha, I thrive on exploring the intersections of technology and user-centric design.
+       Hello! I am Sanchit Gupta, an Electrical Engineering student at SATI, Vidisha, driven by a passion for developing intelligent hardware and automated systems that solve real-world challenges.
 
-        Over the years, I’ve honed my skills in full-stack web development, particularly in building dynamic applications using the MERN stack. My expertise extends to creating interactive and user-friendly interfaces, backend systems, and seamless integrations for AI/ML-powered solutions. I also enjoy tackling hackathon challenges, where I’ve contributed to impactful projects like Legal Bodh, Mind’sCool, and Bail Reckoner.
+	   While my core expertise lies in Electrical Engineering, I thrive at the intersection of power systems and modern software, crafting seamless integrations between physical hardware and digital control interfaces.
+
+	   Over the years, I’ve developed a specialized skill set in Embedded Systems, Robotics, and Full-Stack Web Development. I focus on building high-performance Human-Machine Interfaces (HMI) and backend architectures that allow for real-time monitoring and control of electromechanical systems. Whether I'm optimizing motor control logic or developing AI-integrated diagnostic tools, my goal is to create user-centric solutions for the automotive and industrial sectors.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

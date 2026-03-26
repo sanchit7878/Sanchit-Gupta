@@ -69,43 +69,26 @@ const Navbar = () => {
               <ul className="absolute mt-2 bg-black p-2 rounded-lg">
                 <li className="text-white">
                   <a
-                    href="https://www.linkedin.com/in/kunwar-awadhiya"
+                    href="https://www.linkedin.com/in/sanchit-gupta-3a8250253/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     LinkedIn
                   </a>
                 </li>
+             
                 <li className="text-white">
                   <a
-                    href="https://github.com/Kunwar-awadhiya"
+                    href="https://sanchitportfolio7.netlify.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    GitHub
+                    Website
                   </a>
                 </li>
                 <li className="text-white">
                   <a
-                    href="https://x.com/Kunwar_awadhiya"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Twitter
-                  </a>
-                </li>
-                <li className="text-white">
-                  <a
-                    href="https://leetcode.com/u/Kunwar_Awadhiya/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Leetcode
-                  </a>
-                </li>
-                <li className="text-white">
-                  <a
-                    href="https://www.instagram.com/kunwar_awadhiya/"
+                    href="https://www.instagram.com/sanchit_gupta_g?igsh=MXF5ajQ1bmIyNjl2OQ=="
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -117,15 +100,7 @@ const Navbar = () => {
           </li>
 
           {/* Resume Link */}
-          <li className="text-secondary hover:text-white text-[18px] font-medium cursor-pointer">
-            <a
-              href="/assets/Resume.pdf" // Replace with the actual path to your resume
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Resume
-            </a>
-          </li>
+       
         </ul>
 
         {/* Mobile menu */}
